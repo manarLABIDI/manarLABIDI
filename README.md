@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=manarlabidi&label=Profile%20views&color=0e75b6&style=flat" alt="manarlabidi" />
 </p>
 
-- 🔭 I’m currently working on **Learning Android**
+- 🔭 I’m currently working on **Enhancing my programming skills and learning best practices**
 - 👨‍💻 Check out my projects at [manarlabidi.netlify.app](https://manarlabidi.netlify.app)
 - 📫 Reach me at **manarabidi4@gmail.com**
 
